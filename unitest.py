@@ -1,4 +1,4 @@
-from qsort import qsort
+from main import qsort
 from random import randint
 
 print("Executing tests...")
